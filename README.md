@@ -1,1 +1,0 @@
-Open index.html with VS Code Live Server. This is a frontend demo with fictional content.
